@@ -11,3 +11,6 @@ The point of this project was to work with image mapping. You will find three ty
 
 # What places are mapped within the image of Trump?
 The places that are mapped are: Trump's face, the tip of Trump's right index finger, and the flag on Trump's suit.
+
+# Why this repo / project archived?
+This repo is archived because it is only to show my basic understading of HTML. Take a look at the code if you'd like!
